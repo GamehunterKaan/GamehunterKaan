@@ -2,10 +2,10 @@
   - 👋 Hi, I’m GamehunterKaan ![GitHub followers](https://img.shields.io/github/followers/GamehunterKaan?style=social)
   - 👀 I’m interested in Cyber Security
   - 🌱 I’m currently learning Ethical Hacking and Programming
-  - 📫 You Can Reach Me On Discord:  Gamehunter_Kaan#3021
-  - 💪 [Check out my Fiverr](https://www.fiverr.com/kaangultekin)
-  - 🎥 [Check out my YouTube Channel](https://www.youtube.com/c/GamehunterKaan)    ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFqB4J8Ja_G2QsFP6rUlT_g?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCFqB4J8Ja_G2QsFP6rUlT_g?style=social)
-
+  - 📫 You Ccn reach me out on [Discord](https://search.discordprofile.info/374953845438021635)
+  - 💪 Check out [my Fiverr](https://www.fiverr.com/kaangultekin)
+  - 🎥 Check out [my YouTube Channel](https://www.youtube.com/c/GamehunterKaan)    ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFqB4J8Ja_G2QsFP6rUlT_g?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCFqB4J8Ja_G2QsFP6rUlT_g?style=social)
+  - 🌍 Check out [my website](https://pwnspot.com)
 
 ## Languages and Technologies
 
@@ -29,12 +29,6 @@
       <img src="https://img.shields.io/badge/-Windows-181717?style=flat-square&logo=windows" alt="python" height="50px"/>
 </p>
 
-<p align="center">
-  <text> "Humans are poor of what they want the most" -Me </text>
-</p>
-
-
-
 ## Stats
 <div align = "center" href="https://github.com/GamehunterKaan">
 <a href="https://github.com/GamehunterKaan">
@@ -57,3 +51,7 @@
 - [x] Get a job (freelancing)
 - [ ] Get married
 - [ ] Die
+
+<p align="center">
+  <text> "Humans are poor of what they want the most" -Me </text>
+</p>
