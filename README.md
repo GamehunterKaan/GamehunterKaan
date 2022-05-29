@@ -2,7 +2,7 @@
   - 👋 Hi, I’m GamehunterKaan ![GitHub followers](https://img.shields.io/github/followers/GamehunterKaan?style=social)
   - 👀 I’m interested in Cyber Security
   - 🌱 I’m currently learning Ethical Hacking and Programming
-  - 📫 You Ccn reach me out on [Discord](https://search.discordprofile.info/374953845438021635)
+  - 📫 You can reach me out on [Discord](https://search.discordprofile.info/374953845438021635)
   - 💪 Check out [my Fiverr](https://www.fiverr.com/kaangultekin)
   - 🎥 Check out [my YouTube Channel](https://www.youtube.com/c/GamehunterKaan)    ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFqB4J8Ja_G2QsFP6rUlT_g?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCFqB4J8Ja_G2QsFP6rUlT_g?style=social)
   - 🌍 Check out [my website](https://pwnspot.com)
