@@ -67,11 +67,11 @@ else:
 </div>
 
 ## TODO
-- [x] Born
-- [x] Go to school
-- [x] Get a job (freelancing)
-- [ ] Get married
-- [ ] Die
+- [x]  Born
+- [x]  Go to school
+- [x]  Get a job (freelancing)
+- [ ]  Get married
+- [ ]  Die
 
 <p align="center">
   <text> "Humans are poor of what they want the most" -Me </text>
