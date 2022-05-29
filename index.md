@@ -7,6 +7,19 @@
   - 🎥 Check out [my YouTube Channel](https://www.youtube.com/c/GamehunterKaan)    ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFqB4J8Ja_G2QsFP6rUlT_g?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCFqB4J8Ja_G2QsFP6rUlT_g?style=social)
   - 🌍 Check out [my website](https://pwnspot.com)
 
+
+```python
+from random import choice as decision_maker
+
+if caffeinated:
+    # TODO get a life
+    what_to_do = decision_maker(['write code', 'hack'])
+    do(what_to_do)
+else:
+    drink_coffe()
+```
+
+
 ## Languages and Technologies
 
 <p align="center">
