@@ -6,6 +6,7 @@
   - 💪 Check out [my Fiverr](https://www.fiverr.com/kaangultekin)
   - 🎥 Check out [my YouTube Channel](https://www.youtube.com/c/GamehunterKaan)    ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFqB4J8Ja_G2QsFP6rUlT_g?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCFqB4J8Ja_G2QsFP6rUlT_g?style=social)
   - 🌍 Check out [my website](https://pwnspot.com)
+  - 🐦 Follow me on [Twitter!](https://twitter.com/kaangultekin01)
 
 
 ```python
@@ -56,9 +57,9 @@ else:
 <a href="https://github.com/GamehunterKaan">
   <img src="https://activity-graph.herokuapp.com/graph?username=GamehunterKaan&theme=github" alt="GamehunterKaan's GitHub Stats" height="280px"/>
 </a>
-<a href="https://github.com/GamehunterKaan">
-  <img src="https://metrics.lecoq.io/GamehunterKaan?template=classic" alt="GamehunterKaan's GitHub Stats" />
-</a>
+
+![Metrics](https://metrics.lecoq.io/GamehunterKaan?template=classic&base.indepth=true&isocalendar=1&languages=1&lines=1&introduction=1&repositories=1&base.indepth=true&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.ignored=c&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories.featured=GamehunterKaan%2FAutoPWN-Suite&introduction.title=true&config.timezone=Europe%2FIstanbul)
+
 </div>
 <div align="center">
 <a href="https://tryhackme.com/p/GamehunterKaan">
@@ -67,8 +68,12 @@ else:
 </div>
 
 ## TODO
-- [x]  Born
-- [x]  Go to school
-- [x]  Get a job (freelancing)
-- [ ]  Get married
-- [ ]  Die
+- [x] Born
+- [x] Go to school
+- [x] Get a job (freelancing)
+- [ ] Get married
+- [ ] Die
+
+<p align="center">
+  <text> "Humans are poor of what they want the most" -Me </text>
+</p>
