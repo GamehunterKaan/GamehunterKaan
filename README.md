@@ -6,6 +6,7 @@
   - 💪 Check out [my Fiverr](https://www.fiverr.com/kaangultekin)
   - 🎥 Check out [my YouTube Channel](https://www.youtube.com/c/GamehunterKaan)    ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFqB4J8Ja_G2QsFP6rUlT_g?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCFqB4J8Ja_G2QsFP6rUlT_g?style=social)
   - 🌍 Check out [my website](https://pwnspot.com)
+  - 🐦 Follow me on [Twitter!](https://twitter.com/kaangultekin01)
 
 
 ```python
