@@ -8,6 +8,9 @@
   - 🌍 Check out [my website](https://pwnspot.com)
   - 🐦 Follow me on [Twitter!](https://twitter.com/kaangultekin01)
 
+## Support & Hire Me!
+
+If you want to support my work and also get you job done you can hire me on [Fiverr](https://www.fiverr.com/kaangultekin)! I do various things such as website pentesting, python programming, malware hunting, PC optimization and mentoring.
 
 ```python
 from random import choice as decision_maker
