@@ -8,6 +8,9 @@
   - 🌍 Check out [my website](https://pwnspot.com)
   - 🐦 Follow me on [Twitter!](https://twitter.com/kaangultekin01)
 
+## Support & Hire Me!
+
+If you want to support my work and also get your job done you can hire me on [Fiverr](https://www.fiverr.com/kaangultekin)! I do various things such as website pentesting, python programming, malware hunting, PC optimization, file recovery and mentoring.
 
 ```python
 from random import choice as decision_maker
@@ -20,6 +23,14 @@ else:
     drink_coffe()
 ```
 
+## Some of My Achievements
+
+- My name is listed on [Discord's Website](https://discord.com/security/)
+- I was 1st in Turkey and 11th in the all countries on [TryHackMe](https://tryhackme.com/p/GamehunterKaan) amongst more than 1 million people.
+- [A vulnerability scanner](https://github.com/GamehunterKaan/AutoPWN-Suite/) I've created in less than a month got shared by hundreds of people on Twitter and starred around 500 times.
+- I've created a fileless fully undetectable malware that has more features than meterpreter in PowerShell with no knowledge in PowerShell and networking before.
+- I've mastered BadUSB payloads.
+- Chech out my full resume at [here.](https://resume.pwnspot.com)
 
 ## Languages and Technologies
 
@@ -57,6 +68,8 @@ else:
 <a href="https://github.com/GamehunterKaan">
   <img src="https://activity-graph.herokuapp.com/graph?username=GamehunterKaan&theme=github" alt="GamehunterKaan's GitHub Stats" height="280px"/>
 </a>
+
+![Metrics](https://metrics.lecoq.io/GamehunterKaan?template=classic&base.indepth=true&isocalendar=1&languages=1&lines=1&introduction=1&repositories=1&base.indepth=true&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.ignored=c&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&repositories.featured=GamehunterKaan%2FAutoPWN-Suite&introduction.title=true&config.timezone=Europe%2FIstanbul)
 
 </div>
 <div align="center">
