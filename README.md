@@ -23,6 +23,14 @@ else:
     drink_coffe()
 ```
 
+## Some of My Achievements
+
+- My name is listed on [Discord's Website](https://discord.com/security/)
+- I was 1st in Turkey and 11th in the all countries on [TryHackMe](https://tryhackme.com/p/GamehunterKaan) amongst more than 1 million people.
+- [A vulnerability scanner](https://github.com/GamehunterKaan/AutoPWN-Suite/) I've created in less than a month got shared by hundreds of people on Twitter and starred around 500 times.
+- I've created a fileless fully undetectable malware that has more features than meterpreter in PowerShell with no knowledge in PowerShell and networking before.
+- I've mastered BadUSB payloads.
+- Chech out my full resume at [here.](https://resume.pwnspot.com)
 
 ## Languages and Technologies
 
