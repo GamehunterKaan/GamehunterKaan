@@ -40,17 +40,13 @@ else:
       <img src="https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux" alt="linux" height="50px"/>
       <img src="https://img.shields.io/badge/-PowerShell-181717?style=flat-square&logo=powershell" alt="powershell" height="50px"/>
       <img src="https://img.shields.io/badge/-CSharp-181717?style=flat-square&logo=csharp" alt="csharp" height="50px"/>
-      <img src="https://img.shields.io/badge/-C-181717?style=flat-square&logo=c" alt="c" height="50px"/>
       <img src="https://img.shields.io/badge/-Bash-181717?style=flat-square&logo=shell" alt="bash" height="50px"/>
-      <img src="https://img.shields.io/badge/-VBScript-181717?style=flat-square&logo=vbscript" alt="vbscript" height="50px"/>
-      <img src="https://img.shields.io/badge/-Batch-181717?style=flat-square&logo=cmd" alt="batch" height="50px"/>
       <img src="https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=amazon" alt="aws" height="50px"/>
       <img src="https://img.shields.io/badge/-Cloud-181717?style=flat-square&logo=ubuntu" alt="cloud" height="50px"/>
       <img src="https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git" alt="git" height="50px"/>
       <img src="https://img.shields.io/badge/-Raspberry%20Pi-181717?style=flat-square&logo=raspberrypi" alt="raspberrypi" height="50px"/>
       <img src="https://img.shields.io/badge/-Arch%20Linux-181717?style=flat-square&logo=archlinux" alt="archlinux" height="50px"/>
       <img src="https://img.shields.io/badge/-VSCode-181717?style=flat-square&logo=visualstudiocode" alt="vscode" height="50px"/>
-      <img src="https://img.shields.io/badge/-Sublime%20Text-181717?style=flat-square&logo=sublimetext" alt="sublimetext" height="50px"/>
       <img src="https://img.shields.io/badge/-Windows-181717?style=flat-square&logo=windows" alt="windows" height="50px"/>
 </p>
 
@@ -60,7 +56,7 @@ else:
 </div>
 <div align="center" href="https://github.com/GamehunterKaan">
 <a href="https://github.com/GamehunterKaan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamehunterKaan&hide=c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamehunterKaan&hide=c,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
 </a>
 <a href="https://github.com/GamehunterKaan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GamehunterKaan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GamehunterKaan's GitHub Stats" />
