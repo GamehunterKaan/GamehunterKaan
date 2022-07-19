@@ -30,7 +30,7 @@ else:
 - [A vulnerability scanner](https://github.com/GamehunterKaan/AutoPWN-Suite/) I've created in less than a month got shared by hundreds of people on Twitter and starred around 500 times.
 - I've created a fileless fully undetectable malware that has more features than meterpreter in PowerShell with no knowledge in PowerShell and networking before.
 - I've mastered BadUSB payloads.
-- Chech out my full resume at [here.](https://resume.pwnspot.com)
+- Check out my full resume at [here.](https://resume.pwnspot.com)
 
 ## Languages and Technologies
 
