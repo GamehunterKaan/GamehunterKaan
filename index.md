@@ -8,6 +8,7 @@
   - 🌍 Check out [my website](https://pwnspot.com)
   - 🐦 Follow me on [Twitter!](https://twitter.com/kaangultekin01)
 
+
 ## Support & Hire Me!
 
 If you want to support my work and also get your job done you can hire me on [Fiverr](https://www.fiverr.com/kaangultekin)! I do various things such as website pentesting, python programming, malware hunting, PC optimization, file recovery and mentoring.
@@ -23,6 +24,7 @@ else:
     drink_coffe()
 ```
 
+
 ## Some of My Achievements
 
 - My name is listed on [Discord's Website](https://discord.com/security/)
@@ -30,7 +32,7 @@ else:
 - [A vulnerability scanner](https://github.com/GamehunterKaan/AutoPWN-Suite/) I've created in less than a month got shared by hundreds of people on Twitter and starred around 500 times.
 - I've created a fileless fully undetectable malware that has more features than meterpreter in PowerShell with no knowledge in PowerShell and networking before.
 - I've mastered BadUSB payloads.
-- Chech out my full resume at [here.](https://resume.pwnspot.com)
+
 
 ## Languages and Technologies
 
@@ -49,6 +51,7 @@ else:
       <img src="https://img.shields.io/badge/-VSCode-181717?style=flat-square&logo=visualstudiocode" alt="vscode" height="50px"/>
       <img src="https://img.shields.io/badge/-Windows-181717?style=flat-square&logo=windows" alt="windows" height="50px"/>
 </p>
+
 
 ## Stats
 <div align="center" href="https://tryhackme.com/p/GamehunterKaan">
