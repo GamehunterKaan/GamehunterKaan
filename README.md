@@ -2,7 +2,7 @@
   - 👋 Hi, I’m GamehunterKaan ![GitHub followers](https://img.shields.io/github/followers/GamehunterKaan?style=social)
   - 👀 I’m interested in Cyber Security
   - 🌱 I’m currently learning Ethical Hacking and Programming
-  - 📫 You can reach me out on [Discord](https://search.discordprofile.info/374953845438021635)
+  - 📫 You can reach me out on [Discord](https://discord.com/users/374953845438021635)
   - 💪 Check out [my Fiverr](https://www.fiverr.com/kaangultekin)
   - 🎥 Check out [my YouTube Channel](https://www.youtube.com/c/GamehunterKaan)    ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFqB4J8Ja_G2QsFP6rUlT_g?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCFqB4J8Ja_G2QsFP6rUlT_g?style=social)
   - 🌍 Check out [my website](https://pwnspot.com)
@@ -29,9 +29,10 @@ else:
 
 - My name is listed on [Discord's Website](https://discord.com/security/)
 - I was 1st in Turkey and 11th in the all countries on [TryHackMe](https://tryhackme.com/p/GamehunterKaan) amongst more than 1 million people.
-- [A vulnerability scanner](https://github.com/GamehunterKaan/AutoPWN-Suite/) I've created in less than a month got shared by hundreds of people on Twitter and starred around 500 times.
+- [A vulnerability scanner](https://github.com/GamehunterKaan/AutoPWN-Suite/) I've created in less than a month got shared by hundreds of people on Twitter and starred around 700 times.
 - I've created a fileless fully undetectable malware that has more features than meterpreter in PowerShell with no knowledge in PowerShell and networking before.
 - I've mastered BadUSB payloads.
+- I've written an article about [AutoPWN Suite](https://github.com/GamehunterKaan/AutoPWN-Suite/) for a [PentestMag Magazine.](https://pentestmag.com/product/pentest-open-source-pentesting-toolkit/)
 
 
 ## Languages and Technologies
@@ -48,6 +49,7 @@ else:
       <img src="https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git" alt="git" height="50px"/>
       <img src="https://img.shields.io/badge/-Raspberry%20Pi-181717?style=flat-square&logo=raspberrypi" alt="raspberrypi" height="50px"/>
       <img src="https://img.shields.io/badge/-Arch%20Linux-181717?style=flat-square&logo=archlinux" alt="archlinux" height="50px"/>
+      <img src="https://img.shields.io/badge/-Kali%20Linux-181717?style=flat-square&logo=kali-linux" alt="kali-linux" height="50px"/>
       <img src="https://img.shields.io/badge/-VSCode-181717?style=flat-square&logo=visualstudiocode" alt="vscode" height="50px"/>
       <img src="https://img.shields.io/badge/-Windows-181717?style=flat-square&logo=windows" alt="windows" height="50px"/>
 </p>
@@ -64,10 +66,6 @@ else:
 <a href="https://github.com/GamehunterKaan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GamehunterKaan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GamehunterKaan's GitHub Stats" />
 </a>
-<a href="https://github.com/GamehunterKaan">
-  <img src="https://activity-graph.herokuapp.com/graph?username=GamehunterKaan&theme=github" alt="GamehunterKaan's GitHub Stats" height="280px"/>
-</a>
-
 
 </div>
 <div align="center">
