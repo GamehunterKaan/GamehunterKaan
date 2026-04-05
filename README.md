@@ -40,14 +40,6 @@ Cybersecurity researcher, software developer, and automation-focused engineer fr
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GamehunterKaan&theme=github_dark&hide_border=false&show_icons=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=GamehunterKaan&theme=github_dark&hide_border=false)
-
----
-
 ## Connect
 
 [![Website](https://img.shields.io/badge/Website-lightgray?logo=circuitverse&logoColor=000000)](https://kaangultekin.net/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaan-gultekin) [![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/kaangultekin01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaan_gultekin0) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaan@kaangultekin.net)
