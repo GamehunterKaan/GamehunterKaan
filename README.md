@@ -10,8 +10,8 @@ From full-stack tooling to offensive security: building reliable, usable securit
 
 Cybersecurity researcher, software developer, and automation-focused engineer from Turkey. I create both offensive and defensive security tools as open-source projects, bridging offensive innovation with defensive application.
 
-- Ranked **#1 in Turkey** and **Top 11 globally** on [TryHackMe](https://tryhackme.com/p/GamehunterKaan)
-- Featured in **Discord's Security Hall of Fame** for responsible disclosure
+- Ranked **#1 in Turkey** and **Top 11 globally** on [TryHackMe](https://tryhackme.com/p/TheKG)
+- Featured in [**Discord's Security Hall of Fame**](https://web.archive.org/web/20221107033704/https://discord.com/security) for responsible disclosure
 - **AutoPWN-Suite** featured in [Pentest Magazine](https://pentestmag.com/)
 - Currently researching post-exploitation, AV/EDR evasion, and AI integration in security automation
 
