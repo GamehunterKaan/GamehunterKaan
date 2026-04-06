@@ -12,7 +12,7 @@ Cybersecurity researcher, software developer, and automation-focused engineer fr
 
 - Ranked **#1 in Turkey** and **Top 11 globally** on [TryHackMe](https://tryhackme.com/p/TheKG)
 - Featured in [**Discord's Security Hall of Fame**](https://web.archive.org/web/20221107033704/https://discord.com/security) for responsible disclosure
-- **AutoPWN-Suite** featured in [Pentest Magazine](https://pentestmag.com/)
+- **AutoPWN-Suite** featured in [Pentest Magazine](https://pentestmag.com/product/pentest-open-source-pentesting-toolkit/)
 - Currently researching post-exploitation, AV/EDR evasion, and AI integration in security automation
 
 ---
