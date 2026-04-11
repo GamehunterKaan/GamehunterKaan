@@ -23,6 +23,7 @@ Cybersecurity researcher, software developer, and automation-focused engineer fr
 |---------|-------------|-------|
 | [AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) | Automated vulnerability scanning and exploitation framework | ![Stars](https://img.shields.io/github/stars/GamehunterKaan/AutoPWN-Suite?style=flat) |
 | [BadUSB-Browser](https://github.com/GamehunterKaan/BadUSB-Browser) | Steal all browser credentials via BadUSB attack in 5 seconds | ![Stars](https://img.shields.io/github/stars/GamehunterKaan/BadUSB-Browser?style=flat) |
+| [CompanyEnum](https://github.com/GamehunterKaan/CompanyEnum) | OSINT sweep on a company name | ![Stars](https://img.shields.io/github/stars/GamehunterKaan/CompanyEnum?style=flat) |
 | [Plog](https://github.com/GamehunterKaan/Plog) | Lightweight Windows login password extraction tool | ![Stars](https://img.shields.io/github/stars/GamehunterKaan/Plog?style=flat) |
 | [BadUSB-Meterpreter](https://github.com/GamehunterKaan/BadUSB-Meterpreter) | Gain a Meterpreter shell via BadUSB in under 5 seconds | ![Stars](https://img.shields.io/github/stars/GamehunterKaan/BadUSB-Meterpreter?style=flat) |
 | [VBSBadUSB](https://github.com/GamehunterKaan/VBSBadUSB) | Proof of concept for creating BadUSB via normal USB drives | ![Stars](https://img.shields.io/github/stars/GamehunterKaan/VBSBadUSB?style=flat) |
